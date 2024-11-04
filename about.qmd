@@ -2,8 +2,21 @@
 title: "About"
 ---
 
-About this site
+This material belongs to the digital competence center at University of Twente.
 
-```{r}
-1 + 1
-```
+Repository: <https://github.com/UniversityOfTwente/OSCT.Software.stewards.at.UT.31.10.2024.github.io>
+
+
+- Contact:
+
+Software stewards:  
+
+<e.k.sozeri@utwente.nl>
+
+<n.delapazruiz@utwente.nl>
+
+- Visit us at:  
+
+<https://www.utwente.nl/en/dcc>
+
+
